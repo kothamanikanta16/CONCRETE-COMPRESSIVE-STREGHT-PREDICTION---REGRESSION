@@ -7,6 +7,6 @@ Studied and Analyzed concrete compressive strength to understand the data and co
 Linear Regression Ridge regression Lasso regression
 Random forest. Compared the results to recommend the best Regression model
 
-colab link : https://colab.research.google.com/drive/1xTamta6AJNRDlLQd3EIdnhfoua0MlGCg?usp=sharing
+colab link : https://colab.research.google.com/drive/1xTamta6AJNRDlLQd3EIdnhfoua0MlGCg#scrollTo=8ActNpQHgFo1
 
 ppt link : https://1drv.ms/p/s!Ah1mifV3uuP-gQwI_NvGyCPyGUNc
